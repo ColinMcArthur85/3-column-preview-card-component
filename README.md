@@ -71,4 +71,4 @@ Im feeling pretty good and am ready to move onto learning about extends, mixins 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ColinMcArthur85)
+- Frontend Mentor - [@ColinMcArthur85](https://www.frontendmentor.io/profile/ColinMcArthur85)
